@@ -8,7 +8,7 @@ import { AccountsTemplates } from 'meteor/useraccounts:core';
 AccountsTemplates.configure({
   showForgotPasswordLink: true,
   defaultTemplate: 'Auth_page',
-  defaultLayout: 'App_body',
+  defaultLayout: 'App_words_body',
   defaultContentRegion: 'main',
   defaultLayoutRegions: {},
 });
