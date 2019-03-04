@@ -1,0 +1,19 @@
+
+Todo:
+  ☐ Item
+
+Sidbar:
+  ✔ check signin/join @started(19-02-28 09:11) @done(19-03-01 08:42) @lasted(23h31m43s)
+  ✔ add new list @done(19-03-01 09:01)
+  ✔ add list @started(19-03-01 08:46) @done(19-03-01 09:01) @lasted(15m43s)
+
+change DB:
+  ☐ add load book db
+  ☐ add book items
+  ☐ list book items
+  
+Next:
+    ☐ change <li> style
+
+future:
+  ☐ study signin/logout page
